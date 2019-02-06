@@ -1,5 +1,6 @@
-This procedures allows me to have multiple Arduino IDE 1.8.8 running on my Mac OSX High Sierra and configured as "portable".
-Create a new folder (such as "Arduino_ESP32") where you want to have your Arduino
+This procedures allows to have multiple Arduino IDE 1.8.8 running on Mac OSX High Sierra and configured as "portable" and have different set of libraries
+
+- create a new folder (such as "Arduino_ESP32") where you want to have your Arduino
 - download Arduino IDE 1.8.8
 - show Arduino.app content
 - copy "Content" into the Arduino folder
